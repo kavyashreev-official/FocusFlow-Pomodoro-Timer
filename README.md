@@ -24,11 +24,11 @@ Built using HTML, CSS, and JavaScript, the application combines functionality wi
 ----------------------------
 
  FocusFlow-Pomodoro-Timer/
-│
-├── index.html
-├── style.css
-├── app.js
-└── README.md
+|--index.html
+|-- style.css
+|-- app.js
+|-- README.md
+|--assets
 
 ----------------------------
 
